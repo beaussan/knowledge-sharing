@@ -1,0 +1,12 @@
+version: '2'
+services:
+    knowledgesharing-postgresql:
+        container_name: knowledgesharing-postgresql
+        image: postgres:9.5.4
+        # volumes:
+        #     - ~/volumes/jhipster/knowledgeSharing/postgresql/:/var/lib/postgresql/
+        environment:
+            - POSTGRES_USER=knowledgeSharing
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
