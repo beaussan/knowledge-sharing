@@ -1,3 +1,8 @@
+[![TeamCity (simple build status)](https://img.shields.io/teamcity/http/yt.nbe.io/s/KnowledgeSharing_Build.svg?style=plastic)](https://yt.nbe.io/viewType.html?buildTypeId=KnowledgeSharing_Build)
+[![SonarQube Coverage](https://img.shields.io/sonar/http/sonar.nbe.io/io.nbe.knowledge:knowledge-sharing/coverage.svg?style=plastic)](https://sonar.nbe.io/dashboard?id=io.nbe.knowledge%3Aknowledge-sharing)
+[![SonarQube Tech Debt](https://img.shields.io/sonar/http/sonar.nbe.io/io.nbe.knowledge:knowledge-sharing/tech_debt.svg?style=plastic)](https://sonar.nbe.io/dashboard?id=io.nbe.knowledge%3Aknowledge-sharing)
+
+
 # knowledgeSharing
 
 This application was generated using JHipster 3.12.1, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v3.12.1](https://jhipster.github.io/documentation-archive/v3.12.1).
